@@ -1,3 +1,10 @@
+"""
+UCSD PHYS/SIO 111:
+Ch3 Example of Gaussian Packet IC with d\eta/dt = 0
+
+transaltion:Terrindeep Sandhu WI23
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 
